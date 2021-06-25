@@ -1,0 +1,28 @@
+* {
+  font-family: monospace;
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-color: ivory;
+}
+
+form {
+  max-width: 200px;
+  margin: auto;
+  background: beige;
+  padding: 10px;
+  margin-top: 40vh;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 4px;
+  font-weight: 600;
+}
+
+.feedback {
+  text-align: center;
+}
